@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/andi-carretero/test_page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Alguna vez quiste jugar los juegos de tu infancia?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
