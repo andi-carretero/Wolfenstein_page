@@ -4,7 +4,7 @@
 En el taller de programacion de la fiuba les presentamos: Wolfenstein 3D Remake
 Creado enteramente por alumnos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qZ-HH_SZ9NI&t=47s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/qZ-HH_SZ9NI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
