@@ -4,7 +4,7 @@
 En el taller de programacion de la fiuba les presentamos el  Wolfenstein 3D Remake <br/>
 Creado enteramente por alumnos. <br/>
 
-<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Documentacion_Tecnica.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Documentacion_Tecnica.pdf" target="_blank">PDF.</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ-HH_SZ9NI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
