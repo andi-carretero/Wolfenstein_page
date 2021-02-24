@@ -4,4 +4,4 @@ title: Trabajo practico final
 description: Pagina del repositorio del trabajo final de taller de programacion FIUBA
 
 show_downloads: true
-<a href="andi-carretero.github.io/test_page/documentacion/Documentacion_Tecnica.pdf" target="_blank">PDF.</a>
+<a href="/documentacion/Documentacion_Tecnica.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
