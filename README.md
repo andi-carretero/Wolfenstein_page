@@ -1,7 +1,7 @@
 ## Wolfenstein 3D Remake 
 
-¿Alguna vez soñaste con jugar los juegos de tu infancia en red con tus amigos? \n
-En el taller de programacion de la fiuba les presentamos el  Wolfenstein 3D Remake \n
+¿Alguna vez soñaste con jugar los juegos de tu infancia en red con tus amigos? <br/>
+En el taller de programacion de la fiuba les presentamos el  Wolfenstein 3D Remake <br/>
 Creado enteramente por alumnos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ-HH_SZ9NI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
