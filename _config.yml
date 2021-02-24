@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 
 title: Trabajo practico final
 description: Pagina del repositorio del trabajo final de taller de programacion FIUBA
+
+show_downloads: true
