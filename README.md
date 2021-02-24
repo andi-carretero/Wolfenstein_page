@@ -7,9 +7,9 @@ Creado enteramente por alumnos. <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ-HH_SZ9NI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Documentacion
-<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Documentacion_Tecnica.pdf" target="_blank">Documentacion_tecnica</a>
-<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Manual_de_Proyecto.pdf" target="_blank">Manual_de_Proyecto</a>
-<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Manual_de_usuario.pdf" target="_blank">Manual_de_usuario</a>
+<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Documentacion_Tecnica.pdf" target="_blank">Documentacion_tecnica</a> <br/>
+<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Manual_de_Proyecto.pdf" target="_blank">Manual_de_Proyecto</a> <br/>
+<a href="https://github.com/andi-carretero/test_page/raw/main/documentacion/Manual_de_usuario.pdf" target="_blank">Manual_de_usuario</a> <br/>
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
