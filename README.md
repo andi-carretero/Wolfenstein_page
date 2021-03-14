@@ -13,7 +13,7 @@ Acá está la solucion!
 
 Como se usa:<br>
 #### 1)
-Rellenar tus datos: tu usuario y contraseña de la afip, los datos de cada paciente a facturar, y el formato del cuerpo del recibo (en descripcion del servicio).<br>
+Rellenar *tus* datos: tu usuario y contraseña de la afip, los datos de cada paciente a facturar, y el formato del cuerpo del recibo (en descripcion del servicio).<br>
 #### 2)
 Clickear en "inizializar", esperar a que llegue a la pantalla principa de la afip y ahi clickear manualmente "comprobantes en linea".<br>
 #### 3)
