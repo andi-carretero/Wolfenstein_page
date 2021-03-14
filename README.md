@@ -4,7 +4,7 @@
 ¿Te molesta lo lenta que es? <br>
 ¿Llevas años facturando a tus pacientes, realizando exactamente la misma operacion para cada uno de ellos? <br>
 ¿Quisieras que haya una manera mas facil? <br>
-¿Leyendo esto con vos de infomercial? <br>
+¿Leyendo esto con voz de infomercial? <br>
 
 Acá está la solucion!
 ### Facturador automatico
