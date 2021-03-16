@@ -20,6 +20,7 @@ Es útil más que nada para psicologos, psicopedagogos, fonoaudiologos, etc, que
 ### Como se usa:
 
 #### Formato de la fila del paciente
+![alt text](https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png)
 <div align="center"> <img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="600px"</img> </div>
 
 #### Pasos:
