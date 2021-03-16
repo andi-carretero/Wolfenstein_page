@@ -8,8 +8,8 @@
 
 Acá está la solucion!
 ### Facturador automatico.
-Se recomienda ver directamente en yotube para mayor calidad:
-[arbitrary case-insensitive reference text]: https://www.youtube.com/watch?v=EoMDWIbhtsM
+Se recomienda ver directamente en yotube para mayor calidad: <br>
+https://www.youtube.com/watch?v=EoMDWIbhtsM
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EoMDWIbhtsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
