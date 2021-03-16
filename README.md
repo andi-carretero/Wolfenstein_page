@@ -7,8 +7,10 @@
 ¿Leyendo esto con voz de infomercial? <br>
 
 Acá está la solucion!
-### Facturador automatico
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NpXI6VQL27s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Facturador automatico.
+Se recomienda ver directamente en yotube para mayor calidad:
+[arbitrary case-insensitive reference text]: https://www.youtube.com/watch?v=EoMDWIbhtsM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EoMDWIbhtsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
 ### Qué hace exactamente:
@@ -22,11 +24,7 @@ Es útil más que nada para psicologos, psicopedagogos, fonoaudiologos, etc, que
 #### Formato de la fila del paciente
 ![alt text](https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png)
 <img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="1600px">
-<img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="1800px">
-<img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="2000px">
-<img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="2200px">
-<img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="2400px">
-<img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="2600px">
+
 
 #### Pasos:
 **1)** Rellenar tus datos: tu usuario y contraseña de la afip, los datos de cada paciente a facturar, y el formato del cuerpo del recibo (en descripcion del servicio).<br>
