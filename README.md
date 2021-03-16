@@ -21,7 +21,7 @@ Es útil más que nada para psicologos, psicopedagogos, fonoaudiologos, etc, que
 
 #### Formato de la fila del paciente
 ![alt text](https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png)
-<div align="center"> <img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="600px"</img> </div>
+<img src="https://raw.githubusercontent.com/andi-carretero/facturador_afip/main/explicacion.png" width="600px"</img>
 
 #### Pasos:
 **1)** Rellenar tus datos: tu usuario y contraseña de la afip, los datos de cada paciente a facturar, y el formato del cuerpo del recibo (en descripcion del servicio).<br>
