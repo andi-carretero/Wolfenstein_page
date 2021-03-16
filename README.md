@@ -10,6 +10,7 @@ Acá está la solucion!
 ### Facturador automatico.
 Se recomienda ver directamente en yotube para mayor calidad: <br>
 https://www.youtube.com/watch?v=1nPGPqaUmno
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZ-HH_SZ9NI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nPGPqaUmno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
