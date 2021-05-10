@@ -38,7 +38,8 @@ Excel. (cualquier version). <br>
 **¿Se puede usar en otro browser que no sea internet explorer?** no <br>
 **¿Es seguro?** si <br>
 
-
+### Link de descarga
+<p><a href="https://github.com/andi-carretero/facturador_afip/raw/main/Automatico.xlsm" target="_blank">Click acá</a></p>
 
 ### Link al repositorio
 <p><a href="https://github.com/andi-carretero/facturador_afip">Repositorio en github</a></p>
